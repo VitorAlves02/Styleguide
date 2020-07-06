@@ -1,0 +1,65 @@
+.headline1 {
+  height: 67px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.headline2-bold {
+  height: 54px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.headline2-medium {
+  height: 54px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.headline3-medium {
+  height: 36px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.headline3-regular {
+  height: 36px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.headline4-medium {
+  height: 23px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  color: #1f272f;
+}

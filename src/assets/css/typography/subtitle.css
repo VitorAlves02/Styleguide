@@ -1,0 +1,54 @@
+.subtitle1-semibold {
+  height: 27px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.subtitle2-semibold {
+  height: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 2.4;
+  letter-spacing: 0.24px;
+  color: #1f272f;
+}
+
+.subtitle2-regular {
+  height: 24px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: normal;
+  color: #1f272f;
+}
+
+.subtitle3-bold {
+  height: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 2.4;
+  letter-spacing: 0.24px;
+  color: #1f272f;
+}
+
+.subtitle3-semibold {
+  height: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 2.4;
+  letter-spacing: 0.24px;
+  color: #1f272f;
+}
